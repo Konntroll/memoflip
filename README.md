@@ -15,3 +15,5 @@ The number on the left keeps track of the number of clicks you've made in solvin
 The two icons above the counter reset the board and change the number of tiles to either 16 or 24 tiles. This also resets the counter.
 
 To return to the original 20 tile board, simply refresh the page.
+
+You can have a go <a href="https://konntroll.github.io/memo/memoflip.html">here</a>.
